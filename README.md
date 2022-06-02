@@ -1,2 +1,1 @@
-# rssschool-cv
-My CV
+# My first CV
